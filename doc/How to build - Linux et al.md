@@ -29,7 +29,8 @@ and then you have to clone the profiles submodules
 
 ```
 cd resources/profiles
-git submodule update
+git submodule update --init --recursive
+
 ```
 
 ## How to build, the easy way
